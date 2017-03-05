@@ -1,0 +1,13 @@
+Color.create!(hex_code: '#F0F8FF', uid: '101', name: 'AliceBlue')
+Color.create!(hex_code: '#FAEBD7', uid: '102', name: 'AntiqueWhite')
+Color.create!(hex_code: '#00FFFF', uid: '103', name: 'Aqua')
+Color.create!(hex_code: '#7FFFD4', uid: '104', name: 'Aquamarine')
+Color.create!(hex_code: '#F0FFFF', uid: '105', name: 'Azure')
+Color.create!(hex_code: '#F5F5DC', uid: '106', name: 'Beige')
+Color.create!(hex_code: '#FFE4C4', uid: '107', name: 'Bisque')
+Color.create!(hex_code: '#FFEBCD', uid: '108', name: 'BlanchedAlmond')
+Color.create!(hex_code: '#8A2BE2', uid: '109', name: 'BlueViolet')
+
+Icon.create!(name: 'car', uid: '101')
+Icon.create!(name: 'keyboard', uid: '102')
+Icon.create!(name: 'gun', uid: '103')
